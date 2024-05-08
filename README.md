@@ -66,7 +66,7 @@ user_id  -> (References users (user_id))
 1. Customer_Dimension
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" border="10"/>
 </p>
 
 <br>
