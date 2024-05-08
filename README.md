@@ -1,7 +1,7 @@
 
-# Project Title
+# TheLook Data Analysis 
 
-Business Problem
+### Business Problem
 
 The operational dynamics of TheLook's eCommerce platform are shaped by intense market competition and a relentless pursuit of customer satisfaction. Amidst a fiercely competitive landscape, TheLook confronts the perpetual challenge of meeting and surpassing customer expectations while contending with innovative rivals. Efficiency across operational fronts stands as a linchpin, where seamless order processing, agile inventory management, and optimized logistics directly dictate the company's competitive edge. Embracing data-driven decision-making, TheLook leverages insights extracted from user behavior, sales trends, and demographic analytics to steer strategic initiatives effectively.
 
