@@ -66,14 +66,14 @@ user_id  -> (References users (user_id))
 1. Customer_Dimension
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 
@@ -81,56 +81,56 @@ user_id  -> (References users (user_id))
 2. Events_Dimension
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 
 3. Distribution_center_Dimension
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 
 4. Order_Dimension
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 
 5. Product_Dimension
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 
@@ -138,14 +138,14 @@ user_id  -> (References users (user_id))
 6. Date_Dimension
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 
@@ -153,19 +153,19 @@ user_id  -> (References users (user_id))
 6. Fact_Revenue_Dimension
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
 
 
 ### Tableau Dashboard
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" width="100" height="100" border="10"/>
 </p>
